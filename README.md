@@ -133,6 +133,16 @@ python pipeline.py
 
 ---
 
+Live Demo
+
+🔗 Streamlit Deployment:
+https://deepresearch-ai-apvfy8hdha9ndpqjcs9zim.streamlit.app/
+
+GitHub Repository
+
+💻 GitHub:
+https://github.com/Suryawanshi123566/deepresearch-ai
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:

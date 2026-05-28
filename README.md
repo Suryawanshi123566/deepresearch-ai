@@ -103,7 +103,15 @@ python pipeline.py
 - 🎨 **Professional dark UI** built with Streamlit
 
 ---
+## 📸 Screenshots
 
+![Screenshot 1](assets/Screenshot%202026-05-28%20125358.png)
+![Screenshot 2](assets/Screenshot%202026-05-28%20125440.png)
+![Screenshot 3](assets/Screenshot%202026-05-28%20125502.png)
+![Screenshot 4](assets/Screenshot%202026-05-28%20125528.png)
+![Screenshot 5](assets/Screenshot%202026-05-28%20125603.png)
+
+---
 ## 🖥️ Usage
 
 1. Open the app in your browser (`http://localhost:8501`)
